@@ -6,21 +6,7 @@
 
 ### Computer Science Undergrad • Cybersecurity Enthusiast • Open Source Learner
 
-> *"Third-year Computer Engineering student with strong interest in Cybersecurity, and FinTech."*
-
-<br>
-
-<a href="https://github.com/dhruvil-shah28">
-<img src="https://img.shields.io/badge/Open%20Source-Learner-white?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/s-dhruvil/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dhruvil.shah2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail"/>
-</a>
+> *Third-year Computer Engineering student with strong interest in Cybersecurity, and FinTech.*
 
 </div>
 
