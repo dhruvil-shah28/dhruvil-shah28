@@ -90,16 +90,17 @@ Next.js • Prisma • PostgreSQL • Pinecone • Leaflet.js
 
 <td width="33%">
 
-### 🎓 OrbitUp
+🌐 NETSCOPE
 
-Student collaboration ecosystem.
+Network observability platform.
 
-**Highlights**
+Highlights
 
-- Events
-- Hackathons
-- Internships
-- Student networking
+Device discovery
+Network monitoring
+Latency telemetry
+Service intelligence
+Network topology
 
 **Stack**
 
