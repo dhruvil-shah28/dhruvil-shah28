@@ -84,7 +84,7 @@ Smart city complaint management platform.
 
 **Stack**
 
-Next.js • Prisma • PostgreSQL • Pinecone • Leaflet.js 
+React • Vite • Python • FastAPI • SQLite
 
 </td>
 
