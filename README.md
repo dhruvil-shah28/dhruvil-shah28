@@ -84,7 +84,7 @@ Smart city complaint management platform.
 
 **Stack**
 
-React • Vite • Python • FastAPI • SQLite
+Next.js • React • PostgreSQL • Pinecone
 
 </td>
 
@@ -104,7 +104,7 @@ Network topology
 
 **Stack**
 
-React • Express • Node.js
+React • Vite • Python • FastAPI • SQLite
 
 </td>
 
